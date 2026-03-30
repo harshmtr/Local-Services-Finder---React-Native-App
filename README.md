@@ -23,7 +23,6 @@ Emergency button
 Loading skeleton
 ✅ Navigation
 
-i build this for fun and i use ai also it's only for learning
 
 Bottom tab navigation
 Stack navigation within tabs
@@ -39,3 +38,6 @@ Verified badges
 Loading skeletons
 Call & booking functionality
 Responsive design
+
+
+i build this for fun and i use ai also it's only for learning
