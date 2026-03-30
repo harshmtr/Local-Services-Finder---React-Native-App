@@ -23,6 +23,8 @@ Emergency button
 Loading skeleton
 ✅ Navigation
 
+i build this for fun and i use ai also it's only for learning
+
 Bottom tab navigation
 Stack navigation within tabs
 Smooth transitions
